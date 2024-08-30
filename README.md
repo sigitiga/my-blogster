@@ -1,9 +1,5 @@
 # Blogster bubblegum
 
-![id-ahmadrosid-com](./id-ahmadrosid-com.png)
-
-[Demo](https://id.ahmadrosid.com).
-
 ## Bubblegum Template
 
 A beautiful, performant and accessible theme built with [Tailwind](https://tailwindcss.com).
